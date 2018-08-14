@@ -1,4 +1,4 @@
-package com.mplayer.structures;
+package org.mplayer.structures;
 
 /**
  * The MCI_SAVE_PARMS structure contains the filename information for the

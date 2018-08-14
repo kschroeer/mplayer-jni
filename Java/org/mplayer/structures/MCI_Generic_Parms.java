@@ -1,4 +1,4 @@
-package com.mplayer.structures;
+package org.mplayer.structures;
 
 /**
  * The MCI_GENERIC_PARMS structure is used for MCI command messages that have

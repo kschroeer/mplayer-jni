@@ -1,4 +1,4 @@
-package com.mplayer.structures;
+package org.mplayer.structures;
 
 /**
  * The MCI_GETDEVCAPS_PARMS structure contains device-capability information

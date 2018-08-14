@@ -1,4 +1,4 @@
-package com.mplayer.enumerations;
+package org.mplayer.enumerations;
 
 /**
  * This enumeration is used if one wants to tell the audio interface which

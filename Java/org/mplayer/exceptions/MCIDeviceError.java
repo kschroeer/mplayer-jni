@@ -1,4 +1,4 @@
-package com.mplayer.exceptions;
+package org.mplayer.exceptions;
 
 /**
  * This exception is thrown if the interface recognizes an error (f.e. if the

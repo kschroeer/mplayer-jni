@@ -1,7 +1,7 @@
-package com.mplayer;
+package org.mplayer;
 
-import com.mplayer.structures.MCI_Generic_Parms;
-import com.mplayer.utils.StringPointer;
+import org.mplayer.structures.MCI_Generic_Parms;
+import org.mplayer.utils.StringPointer;
 
 /**
  * This class loads the dll library and provides the native methods.

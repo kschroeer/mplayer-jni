@@ -1,4 +1,4 @@
-package com.mplayer.structures;
+package org.mplayer.structures;
 
 /**
  * The MCI_PLAY_PARMS structure contains positioning information for the

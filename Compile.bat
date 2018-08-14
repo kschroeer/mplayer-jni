@@ -2,11 +2,11 @@
 
 echo Compiling java classes ...
 cd Java
-javac com/mplayer/MediaPlayer.java
+javac org/mplayer/MediaPlayer.java
 javac Test.java
 
 echo Generating jni header ...
-javah -o ../C/MediaPlayerJNI.h com.mplayer.MediaPlayerJNI
+javah -o ../C/MediaPlayerJNI.h org.mplayer.MediaPlayerJNI
 cd ..
 
 echo Building dll library ...

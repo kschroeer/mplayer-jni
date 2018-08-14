@@ -1,5 +1,5 @@
 import java.util.Scanner;
-import com.mplayer.MediaPlayer;
+import org.mplayer.MediaPlayer;
 
 // Simple console player demo
 

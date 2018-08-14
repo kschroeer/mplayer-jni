@@ -1,4 +1,4 @@
-package com.mplayer.structures;
+package org.mplayer.structures;
 
 /**
  * The MCI_OPEN_PARMS structure contains information for the MCI_OPEN command.

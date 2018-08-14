@@ -1,4 +1,4 @@
-package com.mplayer.utils;
+package org.mplayer.utils;
 
 /**
  * This is a helper class for strings which are passed as parameters to a

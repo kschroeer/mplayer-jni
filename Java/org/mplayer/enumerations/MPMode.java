@@ -1,4 +1,4 @@
-package com.mplayer.enumerations;
+package org.mplayer.enumerations;
 
 /**
  * This enumeration represents the current playback mode (f.e. that a file is

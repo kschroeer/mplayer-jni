@@ -1,4 +1,4 @@
-package com.mplayer.structures;
+package org.mplayer.structures;
 
 /**
  * The MCI_STATUS_PARMS structure contains information for the MCI_STATUS

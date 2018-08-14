@@ -1,4 +1,4 @@
-package com.mplayer.enumerations;
+package org.mplayer.enumerations;
 
 /**
  * This enumeration is used to set the format of the value which is returned by

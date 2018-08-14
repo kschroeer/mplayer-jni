@@ -1,19 +1,19 @@
-package com.mplayer;
+package org.mplayer;
 
-import com.mplayer.enumerations.MPDeviceType;
-import com.mplayer.enumerations.MPMode;
-import com.mplayer.enumerations.MPTimeFormat;
-import com.mplayer.exceptions.MCIDeviceError;
-import com.mplayer.structures.MCI_Generic_Parms;
-import com.mplayer.structures.MCI_GetDevCaps_Parms;
-import com.mplayer.structures.MCI_Open_Parms;
-import com.mplayer.structures.MCI_Play_Parms;
-import com.mplayer.structures.MCI_Record_Parms;
-import com.mplayer.structures.MCI_Save_Parms;
-import com.mplayer.structures.MCI_Seek_Parms;
-import com.mplayer.structures.MCI_Set_Parms;
-import com.mplayer.structures.MCI_Status_Parms;
-import com.mplayer.utils.StringPointer;
+import org.mplayer.enumerations.MPDeviceType;
+import org.mplayer.enumerations.MPMode;
+import org.mplayer.enumerations.MPTimeFormat;
+import org.mplayer.exceptions.MCIDeviceError;
+import org.mplayer.structures.MCI_Generic_Parms;
+import org.mplayer.structures.MCI_GetDevCaps_Parms;
+import org.mplayer.structures.MCI_Open_Parms;
+import org.mplayer.structures.MCI_Play_Parms;
+import org.mplayer.structures.MCI_Record_Parms;
+import org.mplayer.structures.MCI_Save_Parms;
+import org.mplayer.structures.MCI_Seek_Parms;
+import org.mplayer.structures.MCI_Set_Parms;
+import org.mplayer.structures.MCI_Status_Parms;
+import org.mplayer.utils.StringPointer;
 
 /**
  * Media player wrapper.
